@@ -1,6 +1,6 @@
 job: mount
 type: single
-description: mount dalet folder as an systemdrive
+description: mount folder as an systemdrive
 exe: D:\gopro\bin\mounter
 args:
   - -d "S"
