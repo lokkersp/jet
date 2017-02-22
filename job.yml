@@ -1,0 +1,10 @@
+job: mount
+type: single
+description: mount dalet folder as an systemdrive
+exe: D:\gopro\bin\mounter
+args:
+  - -d "S"
+  - -p D:\dalet-trunk
+  - -e
+  alias: trunk
+  
