@@ -4,7 +4,7 @@ description: mount dalet folder as an systemdrive
 exe: D:\gopro\bin\mounter
 args:
   - -d "S"
-  - -p D:\dalet-trunk
+  - -p path
   - -e
   alias: trunk
   
